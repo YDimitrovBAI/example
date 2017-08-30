@@ -1,0 +1,4 @@
+- You've been asked to review this code and give your feedback about it. 
+The feedback has to include potential refactoring, introduction of abstraction and design patterns.
+- You're required to fix a IndexOutOfBoundException that is thrown by the application
+- You're also asked to look for potential performance improvement and make the class thread-safe in order to be used in a multi-thread environment. 

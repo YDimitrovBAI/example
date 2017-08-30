@@ -1,0 +1,2 @@
+1) Remove all duplicate characters from a string. 
+Thus, “aaabbb” becomes “ab” and “abcbd” becomes “abcd”.

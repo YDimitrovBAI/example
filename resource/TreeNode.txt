@@ -1,0 +1,15 @@
+Can you design and implement a TreeNode class.
+The class has to be used to represent a tree, every node may contain a value, is a child of another node and has a collection of children.
+
+API to implement:
+- add node
+- remove node by index and by reference
+- set and get the value
+- attach and detach to a parent 
+
+Can you also design and implement a Tree class.
+
+API to implement:
+- locate the root node
+- locate a node by value
+- navigate to a node, returning a representation of a path 
